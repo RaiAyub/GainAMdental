@@ -1,0 +1,7 @@
+1st task: create dashboard for admin panel --> React.
+2nd: MySql/boot
+3rd: Spring security
+4: StripAPi
+
+Chart: https://lucid.app/lucidchart/37a101e6-cfb0-4c24-bac1-c90a1f835c8e/edit?page=0_0#
+ 
